@@ -19,12 +19,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/iBadr49/performance-vinimini.git"
+    "url": "git+https://github.com/Daniquedejong/performance-vinimini.git"
   },
   "author": "B. Amara, D. de Jong",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/iBadr49/performance-vinimini/issues"
+    "url": "https://github.com/Daniquedejong/performance-vinimini/issues"
   },
-  "homepage": "https://github.com/iBadr49/performance-vinimini#readme"
+  "homepage": "https://github.com/Daniquedejong/performance-vinimini#readme"
 }
